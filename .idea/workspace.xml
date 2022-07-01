@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdecb9fe-152b-4e40-880a-eb87ed504419" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lambakean/pushkincloud/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-quickstart.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/hsqldb/changelog/db.changelog-master.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/postgresql/changelog/db.changelog-master.xml" afterDir="false" />
+    <list default="true" id="fdecb9fe-152b-4e40-880a-eb87ed504419" name="Changes" comment="Initial commit.">
+      <change afterPath="$PROJECT_DIR$/docs/tasknew.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +45,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/lambakean/Projects/pushkin-cloud-backend/src/main/resources",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "spring.configuration.checksum": "43fecbc83e7b36ae6106dc0d3efbf319"
   }
@@ -99,8 +91,17 @@
       <workItem from="1656598829264" duration="9078000" />
       <workItem from="1656609544290" duration="135000" />
       <workItem from="1656609703930" duration="667000" />
-      <workItem from="1656610535790" duration="1704000" />
+      <workItem from="1656610535790" duration="2138000" />
+      <workItem from="1656680420254" duration="15313000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1656612514822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656612514822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
   </component>
 </project>
